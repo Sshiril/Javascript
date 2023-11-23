@@ -1,0 +1,7 @@
+**Updating Variables**
+
+The values of variables can vary, hence the name vary-able. We can change the value of a custom variable at any point.
+
+When we are updating a variable, we do not repeat let or var. We only use these keywords when we are first declaring a variable.
+
+
