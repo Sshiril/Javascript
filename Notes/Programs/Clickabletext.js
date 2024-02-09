@@ -25,7 +25,7 @@ function draw() {
 
 function mouseClicked() {
   if (isMouseInsideText(message, messageX, messageY)) {    //calling the function inside the if condition
-    window.open('https://blacklivesmatter.com/', '_blank');
+    window.open('https://github.com/Sshiril/Javascript/edit/main/Notes/Programs/Clickabletext.js', '_blank');
   }
 }
 
