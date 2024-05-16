@@ -1,0 +1,5 @@
+**Trails**
+Recall that we can leave a trail of shapes by placing background() in setup() or leave no trail by placing background() in draw().
+
+Here is sketch that has a blue circle and a green square following the mouse. Both of them leave a trail.
+
